@@ -21,7 +21,7 @@
 }
 
 #page {
-  background-image: url("/images/menu_bg.png");
+  background-image: url("images/menu_bg.png");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -81,12 +81,12 @@ p {
 #feat-category {
   font-weight: bold;
   margin-bottom: 1em;
-  list-style-image: url("./images/up.png");
+  list-style-image: url("images/up.png");
 }
 
 #feat {
   margin-bottom: 1em;
-  list-style-image: url("./images/cross.png");
+  list-style-image: url("images/cross.png");
 }
 
 #page > header {
@@ -152,7 +152,7 @@ copy {
 }
 
 #upcoming-item {
-  list-style-image: url("./images/crys.png");
+  list-style-image: url("images/crys.png");
 }
 
 #page > content {
